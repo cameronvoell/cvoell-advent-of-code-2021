@@ -1,0 +1,14 @@
+{
+  "name": "day-one",
+  "version": "1.0.0",
+  "description": "Advent of code - Day One - Cameron Voell",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Cameron Voell",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
